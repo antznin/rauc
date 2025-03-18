@@ -1547,6 +1547,14 @@ For more information on how to use the layer, also see the layer's `README
 Target System Setup
 ~~~~~~~~~~~~~~~~~~~
 
+.. note::
+
+   Documentation and migration notes are also available in the `meta-rauc
+   <https://github.com/rauc/meta-rauc/README.md>`_ repository's README.
+
+   The branches of this repository follow the Yocto Project release scheme, so
+   make sure to checkout on the branch used for your project.
+
 Add the `meta-rauc` layer to your setup:
 
 .. code-block:: console
